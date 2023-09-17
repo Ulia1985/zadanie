@@ -37,3 +37,4 @@ bin/
 # add .iml file to .gitignore
 echo ".iml" >> .gitignore
 git rm --cached .iml
+/zadanie.iml
