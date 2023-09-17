@@ -36,3 +36,4 @@ bin/
 * .iml
 # add .iml file to .gitignore
 echo ".iml" >> .gitignore
+git rm --cached .iml
