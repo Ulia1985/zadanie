@@ -34,3 +34,5 @@ bin/
 *iml
 .idea/
 * .iml
+# add .iml file to .gitignore
+echo ".iml" >> .gitignore
