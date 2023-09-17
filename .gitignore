@@ -38,3 +38,4 @@ bin/
 echo ".iml" >> .gitignore
 git rm --cached .iml
 zadanie.iml
+*.iml
